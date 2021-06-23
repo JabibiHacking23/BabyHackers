@@ -1,0 +1,14 @@
+{
+  "name": "baby-hackers-bot",
+  "version": "1.0.0",
+  "description": "THIS BOT IS JUST FOR A LEGION CALLED BABY HACKERS BY JABIBI (javier .H)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jabibi (Jabier H.)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
